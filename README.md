@@ -1,3 +1,10 @@
+To run:
+
+```
+npm run dev
+```
+
+
 ## Notes from the dev (Andrew Tran)
 
 In the interest of time there are a few trade-offs I made:
